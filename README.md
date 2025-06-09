@@ -1,12 +1,12 @@
 # Earthquake-prediction-using-Machine-learning-models
 
-A project done for the course CSE3505 - Essentials of Data Analytics under <b>ELANGO N M</b>
+A project done for the course  Data Analytics R1UC424T - Essentials of Data Analytics under <b>Dr. Ravi Sharma</b>
 <h3>Team members</h3>
 <ul>
-<li><b>AKASH R 20BCE1501</b> Github: <a href="https://github.com/akash-r34">akash-r34</a></li>
-<li><b>ARJUN BHARANI 20BCE1505</b> Github: <a href="https://github.com/ArjunBharani">ArjunBharani</a></li>
-<li><b>SHIVAM SHARMA 20BCE1442</b> Github: <a href="https://github.com/shivams-23">shivams-23</a></li>
-<li><b>AKSHAY GIRISH 20BCE1573</b> Github: <a href="https://github.com/Akshaykviit023">Akshaykviit023</a></li>
+<li><b>Rohit Pandit (23SCSE1011019)</b></li>
+<li><b>Saurav Raj (23SCSE1010390)</b></li>
+<li><b>Shubhanshu Rai (23SCSE1011396)</b> Github: <a href="https://github.com/shivams-23">shivams-23</a></li>
+<li><b>Ayush (23SCSE1011089)</b></li>
 </ul>
 <h2>Abstract</h2>
 Earthquakes are natural disasters that can cause significant damage and loss of life. Accurate prediction of earthquakes is essential for developing early warning systems, disaster planning, risk assessment, and scientific research.
