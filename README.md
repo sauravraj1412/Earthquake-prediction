@@ -5,7 +5,7 @@ A project done for the course  Data Analytics R1UC424T - Essentials of Data Anal
 <ul>
 <li><b>Rohit Pandit (23SCSE1011019)</b></li>
 <li><b>Saurav Raj (23SCSE1010390)</b></li>
-<li><b>Shubhanshu Rai (23SCSE1011396)</b> Github: <a href="https://github.com/shivams-23">shivams-23</a></li>
+<li><b>Shubhanshu Rai (23SCSE1011396)</b></li>
 <li><b>Ayush (23SCSE1011089)</b></li>
 </ul>
 <h2>Abstract</h2>
