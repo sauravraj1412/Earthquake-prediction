@@ -1,6 +1,6 @@
 # Earthquake-prediction-using-Machine-learning-models
 
-A project done for the course  Data Analytics R1UC424T - Essentials of Data Analytics under <b>Dr. Ravi Sharma</b>
+A project done for the course  R1UC424T - Essentials of Data Analytics under <b>Dr. Ravi Sharma</b>
 <h3>Team members</h3>
 <ul>
 <li><b>Rohit Pandit (23SCSE1011019)</b></li>
